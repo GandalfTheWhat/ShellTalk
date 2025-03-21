@@ -1,0 +1,3 @@
+#!/bin/bash # shebang, sheboom
+
+echo "Well I'm a digital sytem, and therefore have no feelings. I appreciate the thought! I hope you are having a wonderful $(date +%A)!"
