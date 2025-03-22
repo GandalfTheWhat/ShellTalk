@@ -1,3 +1,4 @@
-#!/bin/bash # shebang, sheboom
+# shebang, sheboom - I just learn that this cannont go inline after the sheband - that caused file_not_found error
+#!/bin/bash
 
 echo "Well I'm a digital sytem, and therefore have no feelings. I appreciate the thought! I hope you are having a wonderful $(date +%A)!"
